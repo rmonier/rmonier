@@ -5,3 +5,8 @@ I'm an engineer in Computer Science, Networks and Cybersecurity who graduated fr
     <a href="https://www.linkedin.com/in/romain-monier" target="_blank"><img src="img/social/linkedin.png" alt="LINKEDIN" style="margin: 0 auto;max-width: 100%; height: auto;"></a>
     <a href="https://huggingface.co/rmonier" target="_blank"><img src="img/social/hf-logo.png" alt="HUGGINGFACE" style="margin: 0 auto;max-width: 100%; height: auto;"></a>
 </div>
+
+### My Certifications
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
