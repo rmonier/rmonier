@@ -10,6 +10,5 @@ I'm an engineer in Computer Science, Networks and Cybersecurity who graduated fr
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/4eaf687f-1419-4a2c-9305-ea6517bccaf2" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/97b3f1f3-790b-4167-a20b-26e90c3a4fb5" title="Certified Kubernetes Security Specialist (CKS)"><img src="https://images.credly.com/size/80x80/images/ebf304f4-b2c6-41f4-beae-14681d11c8a6/blob" alt="Certified Kubernetes Security Specialist (CKS)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ad63835e-5c78-4fcf-bd3f-4351176a169b" title="CKS: Certified Kubernetes Security Specialist"><img src="https://images.credly.com/size/80x80/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="80" height="80"></a>
 <!--END_SECTION:badges-->
