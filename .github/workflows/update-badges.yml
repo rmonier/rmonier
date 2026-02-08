@@ -13,6 +13,4 @@ jobs:
         uses: pemtajo/badge-readme@9e2802524f5361f1c3af4d99ea1247a7d5952687
         with:
           CREDLY_USER: romain-monier
-          CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
 
-          BADGE_SIZE: 110
